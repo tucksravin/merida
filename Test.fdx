@@ -11,6 +11,9 @@
             <Text>Narrator: This is where I say words</Text>
         </Paragraph>
         <Paragraph Type="Action">
+            <Text>Marcenal: and what words are you saying?</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
             <Text>Merida: Hi, this is the protagonist speaking</Text>
         </Paragraph>
         <Paragraph Type="Scene Heading">
