@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FinalDraft Template="No" Version="2" DocumentType="Script">
+    <Content>
+        <Paragraph Type="Scene Heading">
+            <Text>EXT. BEYOND KAI</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Narrator:</Text>
+        </Paragraph>
+    </Content>
+    <TitlePage>
+        <Content>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text>Untitled</Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Left">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Right">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+        </Content>
+    </TitlePage>
+    <HeaderAndFooter HeaderFirstPage="No" StartingPage="1" FooterVisible="No" HeaderVisible="Yes" FooterFirstPage="Yes">
+        <Header>
+            <Paragraph>
+                <Text> </Text>
+                <Text> </Text>
+                <DynamicLabel Type="Page #"></DynamicLabel>
+                <Text>.</Text>
+                <TabStops>
+                    <TabStop Position="4.50" Type="Center"></TabStop>
+                    <TabStop Position="7.25" Type="Right"></TabStop>
+                </TabStops>
+            </Paragraph>
+        </Header>
+        <DynamicLabel Type="Last Revised"></DynamicLabel>
+        <Footer>
+            <Paragraph>
+                <Text> </Text>
+            </Paragraph>
+        </Footer>
+    </HeaderAndFooter>
+    <WindowState Height="1028" Mode="Normal" Top="46" Left="2" Width="634"></WindowState>
+</FinalDraft>
