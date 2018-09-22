@@ -5,7 +5,10 @@
             <Text>EXT. BEYOND KAI</Text>
         </Paragraph>
         <Paragraph Type="Action">
-            <Text>Narrator:</Text>
+            <Text>Narrator: </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida: Hi, this is the protagonist speaking</Text>
         </Paragraph>
     </Content>
     <TitlePage>
