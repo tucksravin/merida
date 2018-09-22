@@ -4,8 +4,8 @@
         <Paragraph Type="Scene Heading">
             <Text>EXT. BEYOND KAI</Text>
         </Paragraph>
-        <Paragraph Type="Action">
-            <Text>Narrator: </Text>
+        <Paragraph Type="Action">           
+            <Text>Narrator: This is where I say words</Text>
         </Paragraph>
         <Paragraph Type="Action">
             <Text>Merida: Hi, this is the protagonist speaking</Text>
