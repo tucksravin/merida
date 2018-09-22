@@ -2,13 +2,24 @@
 <FinalDraft Template="No" Version="2" DocumentType="Script">
     <Content>
         <Paragraph Type="Scene Heading">
+            <Text>INT. IN THE OASIS (I GUESS)</Text>
+        </Paragraph>
+        <Paragraph Type="Scene Heading">
             <Text>EXT. BEYOND KAI</Text>
         </Paragraph>
-        <Paragraph Type="Action">           
+        <Paragraph Type="Action">
             <Text>Narrator: This is where I say words</Text>
         </Paragraph>
         <Paragraph Type="Action">
             <Text>Merida: Hi, this is the protagonist speaking</Text>
+        </Paragraph>
+        <Paragraph Type="Scene Heading">
+            <Text>INT. MERIDA’S HOME</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Narrator: It was the worst possible outcome.
+	</Text>
+            <Text Style="Italic">at least that’s what they thought</Text>
         </Paragraph>
     </Content>
     <TitlePage>
