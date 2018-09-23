@@ -22,7 +22,12 @@
         <Paragraph Type="Action">
             <Text>Narrator: It was the worst possible outcome.
 	</Text>
-            <Text Style="Italic">at least that’s what they thought</Text>
+            <Text Style="Italic">at least that</Text>
+            <Text Style="Bold+Italic">’s what they thought</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Phineas 
+I am an asshole</Text>
         </Paragraph>
     </Content>
     <TitlePage>
