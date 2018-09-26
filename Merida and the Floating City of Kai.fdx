@@ -14,13 +14,79 @@
             <Text> Kai. The City in the Sky. The Bridge of the World. The Chained Islands. </Text>
         </Paragraph>
         <Paragraph Type="Action">
+            <Text>Warm notes, small swell.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR </Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> There are only two masses of land known that have escaped the pull of the Earth, islands held together by a cord of pipes, links, and metal detritus. Major is the big one below. Minor is the rich one above. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The first breath of Major, quiet, with a rattle.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> And all this, from Kaela.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
             <Text>The thrum of Kaela rises. Pumps and machinery.</Text>
         </Paragraph>
         <Paragraph Type="Character">
             <Text>NARRATOR</Text>
         </Paragraph>
         <Paragraph Type="Dialogue">
-            <Text> Two islands, unalike in size</Text>
+            <Text> The blood of Kai, a substance that becomes lighter than air, lighter than lightness itself.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Major exhales.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> A substance that, when pumped with force and regularity, can divide the Earth from itself. And below the surface of Major, the rock and grit and steel, stretch...</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Major inhales. Louder rattle.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>  ... and retract...</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Exhale. This doesn’t sound sustainable.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> ... with all the force and regularity one could ever desire. Pushing Kaela through Kai, holding the city above the Great Divide, a desert of crags, and grit and dust. A desert called endless by those on either side of it. </Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Kai, the Bridge of the World, ten years rusted, the first and only Connection. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Inhale. Exhale. Rattle.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Kai seems to be feeling that rust.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Burst. Hiss.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Very much so. </Text>
         </Paragraph>
         <Paragraph Type="Scene Heading">
             <Text>EXT. PORT OF KAI MINOR - DAY</Text>
