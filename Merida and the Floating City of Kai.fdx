@@ -86,7 +86,202 @@
             <Text>NARRATOR</Text>
         </Paragraph>
         <Paragraph Type="Dialogue">
-            <Text> Very much so. </Text>
+            <Text> Very much so. But, from the inside, all appeared as it ever was.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Wind picks up as we dive into...</Text>
+        </Paragraph>
+        <Paragraph Type="Scene Heading">
+            <Text>INT. THE CHOKE</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Feet on metal walkways, we are inside of Major, inside of the breathing. Metal clicks and pumping are evident.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> This is the Choke. The point where all Kaela passes as it flows from Minor to Major and back again. This is where the pressure is the greatest, where flight is controlled, where everything always seems to be going wrong.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Crack-hiss.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Torin, open tank four-seven to collect overflow. Jestin patch that pipe and Sorcha route ps8 into the main flow. Please and thank you.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> But four-seven is already at half...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA (at the same time)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> </Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> But we’ll need to compensate for the loss...</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>JESTIN shuts them up</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>JESTIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Oh, I’m sure Merida didn’t consider that, do what you’re told you incompetents. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>We are moving already, following MERIDA to another part of the choke, more pistons and clanking. MERIDA is murmuring things to herself.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Pressures are all over, fair I guess, but we’re short, short and short. A self-disequilibrium? A fair-lane? No, no, need to adjust seventy-two.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida starts to turn a heavy rusted dial.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> This is Merida [MERIDA’s LAST NAME]. It’s her mind, along with Cressida Fairbanks’ that did most of the imagining that made Kai Kai. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>A new, worrying of sound of warming up Kaela.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> The Choke is trying to jump again? That’s (mental math) almost 30 seconds early.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Running and building noise.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Here comes. Reversing polarity in three, two...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> No, wait, on my mark.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> We’re fine here Merida.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> You’re ten seconds too early... two, one... mark.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Reversing polarity noise.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Done. I hope those seconds kept Minor from falling out of the sky.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Protocol Bryl. If we’re five seconds early every time...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> ‘...then who knows what could happen in thirty years.’ Like you won’t have a genius fix for it by then.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Flattering doesn’t become you. This system is in place for a reason and I won’t have you mucking about with it because of some sort of tiny rebelliousness. Monitor the flow.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>MERIDA walks away.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL (from a distance)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>In a shocking turn of events, the flow is... regular!</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA </Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Prick.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Of the team of thirty-two that originally worked on the project, after its completion, only half elected to actually board the craft they had created, Cressida and Merida being two of these. And of the sixteen all but one chose to live in Minor, the isle of royalty, galas, and “administrative work.”</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>A conversation through a door.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Yeah, she’s going on a date with some important Mino. A distributor or librarian I think.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>That’s wild that he would come down here.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I know. I forget how big of deal she is sometimes.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> They certainly don’t. I feel like half the mail coming down here through the pneum is for her.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Is for her? I feel like I see plenty of mail coming from your room going up to Minor. How are things going with that, oh, so stunning linguist you met once? What was her name, Gail?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> You know full well it was Gail, and you know full well how many of those letters have been coming back.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> That well then. </Text>
         </Paragraph>
         <Paragraph Type="Scene Heading">
             <Text>EXT. PORT OF KAI MINOR - DAY</Text>
