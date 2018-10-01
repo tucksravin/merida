@@ -3,23 +3,204 @@
 
   <Content>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2" Page="1" Title="">
+      <SceneProperties Length="2 2/8" Page="1" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="CRESSIDA"></CharacterArcBeat>
+          <CharacterArcBeat Name=""></CharacterArcBeat>
           <CharacterArcBeat Name="MERIDA"></CharacterArcBeat>
           <CharacterArcBeat Name="PHINEAS"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Ext. Port of Kai minor - day</Text>
+      <Text>3 Int. Cafe - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Merida and Phineas exit the train. Merida looks in awe as the two walk towards the back of the train for their luggage.</Text>
+      <Text>Merida drinks coffee across from a well-dressed man.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s really as enjoyable of a job as I could hope for. Major is cozy, I’m friends with all my </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">co-workers</Text>
+      <Text>, and we keep an entire world afloat. </Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Phineas</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>The Port of Kai Minor is one of the most efficient in the world. In addition to accepting persons from across the sky, this large box here--</Text>
+      <Text>But you could’ve lived on Minor if you wanted. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I did, for a while, when we were building it. But given the choice, I knew my calling was here. What is it you do? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My company invests in </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">kaela</Text>
+      <Text> and devotes that money to future projects. I also do some advising. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what are your hobbies?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My hobbies?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did you see they’re putting up “Sparks Will Fly” in Minor? It’s to be one of the great plays of this decade. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The plays I attend are of the less popular, more critically acclaimed fashion, with a box office not nearly large enough to tour Major. Are you interested in the arts?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think the cycling of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">kaela</Text>
+      <Text> is its own form of art, in a way. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Merida is frustrated by her own inability to seem intelligent, especially in describing her own technological achievement. The two sit in silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So the prosperity of Kai is important to you. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Merida is more and more put off by his questions. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s why you’re still on Major. Kai functions best with you in the mud, doing the work you don’t have to do anymore. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I suppose so. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you married? Do you care about love?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m here now with you, aren’t I? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I didn’t come here to see where things would go between you and I, and for that I’m sorry, Merida. I came here for something much greater. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And what is it that’s greater than that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The chance to be recognized by your nation. Per request of the prince</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Merida perks up. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Kai Minor would like to cordially invite you to a gala commemorating the 10th anniversary of our ascent into the skies. Given you were an integral part of the designing of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">kaela</Text>
+      <Text> into our system, it’s only fitting that you shall be a guest of honor at the event. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I...I</Text>
+      <Text> don’t know what to say. I’m flattered. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And we would be flattered to have you. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But I need time to think about it. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I urge you accept, this chance may not be offered again. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I understand. I just want to </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 6/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CRESSIDA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MERIDA"></CharacterArcBeat>
+          <CharacterArcBeat Name="PHINEAS"></CharacterArcBeat>
+          <CharacterArcBeat Name="ROYAL GUARD"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>7 int. Port of Kai minor - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The train enters the palace and halts. Merida looks in awe as the two exit and wander the halls of the palace. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The Port of Kai Minor is one of the most efficient in the world. In addition to accepting persons from across the sky, this large </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">recepticol</Text>
+      <Text> here--</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Merida</Text>
@@ -39,7 +220,7 @@
       <Text>Merida</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Because the trains coming into Minor moves with the </Text>
+      <Text>Because the trains coming into Minor move with the </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">kaela</Text>
       <Text> entering the city. </Text>
     </Paragraph>
@@ -47,7 +228,7 @@
       <Text>Phineas</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Okay, well do you know who we’re expecting to meet us at the baggage claim? </Text>
+      <Text>Okay, well do you know who we’re expecting to meet us in this very lobby? </Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Merida</Text>
@@ -106,22 +287,22 @@
       <Text>Cressida</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I couldn’t pass on the opportunity to spend a few nights in the royal palace. Even if I’m stuck rooming with you. </Text>
+      <Text>I couldn’t pass on the opportunity to spend a few nights in a royal suite. Even if I’m stuck rooming with you. </Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Merida</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Me?! You’re the messy one. </Text>
+      <Text>Me?! You should be honored to spend the night with me.  </Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Cressida</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Besides, someone has to keep your hands off of that dastardly prince. </Text>
+      <Text>Then that would be an honor I share with not many people. Besides, someone has to keep your hands off of that dastardly prince. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Cressida smiles.</Text>
+      <Text>Merida smiles.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Merida (bashfully)</Text>
@@ -153,24 +334,75 @@
       <Text>Merida</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Besides, I came here to celebrate our </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">achievment</Text>
-      <Text>, hopefully catch up on some sleep, and get back to work. </Text>
+      <Text>Besides, I came here to celebrate our achievement, hopefully catch up on some sleep, and get back to work. </Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Cressida</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>It never is just that with you, Merida.</Text>
+      <Text>As any good guest should do. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, what is this? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Merida points to a marked off door. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t recall designing this entrance. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Royal guard</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That area does not pertain to you. Restricted access only. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, hello officer. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Cressida </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">shaks</Text>
+      <Text> her head in disapproval. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Royal guard</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Guests of this gala will have access to some of the finest ballrooms in the world. Given security will be so spread thin, we can’t have all rooms accounted for. I hope you understand. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Merida</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, of course. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Royal guard</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now let me show you two to your room. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They exit.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="3" Title="">
+      <SceneProperties Length="2 2/8" Page="6" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="PHINEAS"></CharacterArcBeat>
           <CharacterArcBeat Name="PRINCE"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>INt. Prince’s royal office</Text>
+      <Text>8 INt. Prince’s royal office</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The Prince and Phineas sit drinking tea in a lavishly decorated room. Phineas holds a cat in his lap. </Text>
@@ -189,7 +421,131 @@
       <Text>Prince</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Excellent. I take it </Text>
+      <Text>Excellent. Then the gala shall be a success. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The prince stands and looks out the window at Major.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I just wish it didn’t have to happen this soon. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You said it yourself, this will benefit both rich and poor. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And what I care most about is the happiness of my people. It is my duty to serve them. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The prince looks away from the window then dramatically looks back. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are the skies not vast enough for us all? I thought we were exploring the limits of our limitlessness, not reeling ourselves back in after ten years. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sir, I know you care a lot about your people, but this project is the for the good of Kai. Your people will understand. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And what do you care for those people?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Me, sir? I care about the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">sustainability</Text>
+      <Text> of our nation. We have to do whatever we can to keep this enterprise afloat. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve always appreciated your hard sense, Phineas. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And I your strong sense of empathy. We work well together. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are preparations in order otherwise? The food has been arranged, our guests are all accounted for--</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah, yes, the food for this weekend is ready, Prince. Has been for quite some now. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The prince waits in nervous silence. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The guests, too, of course! I spent this morning actually escorting a guest, of mid-level importance, probably, to Minor. Goes by the name of Merida. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Merida?! She came? What did you tell her? Did you tell her I invited her?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I told her what I told all invited guests. We are celebrating the 10th anniversary of an event you were critical in bringing to fruition, and would like you there. She has no idea how uncontrollably into her you are. But she will if you continue to act this way. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re right, you’re right, I’m sorry. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Phineas</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s okay! We just need you to play it cool. You’re the prince. This is your territory. She is your </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">subject.</Text>
+      <Text> I’ll be there every step of the way. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Prince</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Phineas, my most trustworthy advisor, thank you for all that you do. I envision both plans playing out how we want them this weekend. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text></Text>
     </Paragraph>
   </Content>
 
@@ -238,7 +594,7 @@
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="1767,1767" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="4689,4689" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -483,6 +839,7 @@
       <Character>Merida</Character>
       <Character>Cressida</Character>
       <Character>Prince</Character>
+      <Character>Royal guard</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -500,6 +857,7 @@
     <Locations>
       <Location>PORT OF KAI MINOR</Location>
       <Location>PRINCE'S ROYAL OFFICE</Location>
+      <Location>CAFE</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -822,10 +1180,11 @@
       <Element Type="Character"/>
       <Element Type="Dialogue"/>
     </Narrator>
-    <Member Actor="" Character="Phineas"/>
-    <Member Actor="" Character="Merida"/>
-    <Member Actor="" Character="Cressida"/>
-    <Member Actor="" Character="Prince"/>
+    <Member Actor="Man 1" Character="Phineas"/>
+    <Member Actor="Man 1" Character="Merida"/>
+    <Member Actor="Man 1" Character="Cressida"/>
+    <Member Actor="Man 1" Character="Prince"/>
+    <Member Actor="Man 1" Character="Royal guard"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -837,10 +1196,9 @@
   </CastList>
 
   <CharacterHighlighting>
-    <Character Color="#FFFFFFFFFFFF" Name="CRESSIDA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="MERIDA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="PHINEAS" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="PRINCE" Visible="No"/>
   </CharacterHighlighting>
 
   <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order"/>
@@ -852,8 +1210,8 @@
   <ListItems/>
 
   <DisplayBoards>
-    <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
     <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
+    <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
   </DisplayBoards>
 
 </FinalDraft>
