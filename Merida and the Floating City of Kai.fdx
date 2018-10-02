@@ -1,1660 +1,1070 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<FinalDraft DocumentType="Script" Template="No" Version="3">
-
-  <Content>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 3/8" Page="1" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="NARRATOR"></CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text>EXT. BEYOND </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">KAI</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Main theme plays over the thrum of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kaela</Text>
-      <Text> that will live on through the story. The wind blows under, the world feels lifted. The music cuts out.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kai</Text>
-      <Text>. The City in the Sky. The Bridge of the World. The Chained Islands. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Warm notes, small swell.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> There are only two masses of land known that have escaped the pull of the Earth, islands held together by a cord of pipes, links, and metal detritus. Major is the big one below. Minor is the rich one above. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The first breath of Major, quiet, with a rattle.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> And all this, from </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kaela</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The thrum of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kaela</Text>
-      <Text> rises. Pumps and machinery.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> The blood of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kai</Text>
-      <Text>, a substance that becomes lighter than air, lighter than lightness itself.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Major exhales.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> A substance that, when pumped with force and regularity, can divide the Earth from itself. And below the surface of Major, the rock and grit and steel, stretch...</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Major inhales. Louder rattle.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>  ... </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">and</Text>
-      <Text> retract...</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Exhale. This doesn’t sound sustainable.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> ... </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">with</Text>
-      <Text> all the force and regularity one could ever desire. Pushing </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kaela</Text>
-      <Text> through </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kai</Text>
-      <Text>, holding the city above the Great Divide, a desert of crags, and grit and dust. A desert called endless by those on either side of it. </Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Kai, the Bridge of the World, ten years rusted, the first and only Connection. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Inhale. Exhale. Rattle.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Kai seems to be feeling that rust.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Burst. Hiss.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Very much so. But, from the inside, all appeared as it ever was.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Wind picks up as we dive into...</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3" Page="2" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="BRYL"></CharacterArcBeat>
-          <CharacterArcBeat Name="JESTIN"></CharacterArcBeat>
-          <CharacterArcBeat Name="MERIDA"></CharacterArcBeat>
-          <CharacterArcBeat Name="NARRATOR"></CharacterArcBeat>
-          <CharacterArcBeat Name="SORCHA"></CharacterArcBeat>
-          <CharacterArcBeat Name="TORIN"></CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text>INT. THE CHOKE</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Feet on metal walkways, we are inside of Major, inside of the breathing. Metal clicks and pumping are evident.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> This is the Choke. The point where all Kaela passes as it flows from Minor to Major and back again. This is where the pressure is the greatest, where flight is controlled, where everything always seems to be going wrong.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Crack-hiss.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MERIDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Torin, open tank four-seven to collect overflow. Jestin patch that pipe and Sorcha route ps8 into the main flow. Please and thank you.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>TORIN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> But four-seven is already at half...</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>SORCHA (at the same time)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> </Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> But we’ll need to compensate for the loss...</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>JESTIN shuts them up</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>JESTIN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Oh, I’m sure Merida didn’t consider that, do what you’re told you incompetents. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>We are moving already, following MERIDA to another part of the choke, more pistons and clanking. MERIDA is murmuring things to herself.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MERIDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Pressures are all over, fair I guess, but we’re short, short and short. A self-disequilibrium? A fair-lane? No, no, need to adjust seventy-two.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Merida starts to turn a heavy rusted dial.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> This is Merida [MERIDA’s LAST NAME]. It’s her mind, along with Cressida Fairbanks’ that did most of the imagining that made Kai Kai. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>A new, worrying of sound of warming up Kaela.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MERIDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> The Choke is trying to jump again? That’s (mental math) almost 30 seconds early.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Running and building noise.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>BRYL</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Here comes. Reversing polarity in three, two...</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MERIDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> No, wait, on my mark.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>BRYL</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> We’re fine here Merida.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MERIDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> You’re ten seconds too early... two, one... mark.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Reversing polarity noise.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>BRYL</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Done. I hope those seconds kept Minor from falling out of the sky.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MERIDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Protocol Bryl. If we’re five seconds early every time...</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>BRYL</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> ‘...then who knows what could happen in thirty years.’ Like you won’t have a genius fix for it by then.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MERIDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Flattering doesn’t become you. This system is in place for a reason and I won’t have you mucking about with it because of some sort of tiny rebelliousness. Monitor the flow.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>MERIDA walks away.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>BRYL (from a distance)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>In a shocking turn of events, the flow is... regular!</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MERIDA </Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Prick.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>NARRATOR</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Of the team of thirty-two that originally worked on the project, after its completion, only half elected to actually board the craft they had created, Cressida and Merida being two of these. And of the sixteen all but one chose to live in Minor, the isle of royalty, galas, and “administrative work.”</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>A conversation through a door.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>TORIN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Yeah, she’s going on a date with some important Mino. A distributor or librarian I think.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">SORCHA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>That’s wild that he would come down here.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TORIN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I know. I forget how big of deal she is sometimes.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">SORCHA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> They certainly don’t. I feel like half the mail coming down here through the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">pneum</Text>
-      <Text> is for her.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TORIN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> Is for her? I feel like I see plenty of mail coming from your room going up to Minor. How are things going with that, oh, so stunning linguist you met once? What was her name, Gail?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">SORCHA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> You know full well it was Gail, and you know full well how many of those letters have been coming back.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TORIN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text> That well then. </Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="5" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="CRESSIDA"></CharacterArcBeat>
-          <CharacterArcBeat Name="MERIDA"></CharacterArcBeat>
-          <CharacterArcBeat Name="PHINEAS"></CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text>3 Int. Cafe - day</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Merida drinks coffee across from a well-dressed man.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>It’s really as enjoyable of a job as I could hope for. Major is cozy, I’m friends with all my co-workers, and we keep an entire world afloat. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>But you could’ve lived on Minor if you wanted. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I did, for a while, when we were building it. But given the choice, I knew my calling was here. What is it you do? </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>My company invests in kaela and devotes that money to future projects. I also do some advising. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>So what are your hobbies?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>My hobbies?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Did you see they’re putting up “Sparks Will Fly” in Minor? It’s to be one of the great plays of this decade. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>The plays I attend are of the less popular, more critically acclaimed fashion, with a box office not nearly large enough to tour Major. Are you interested in the arts?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I think the cycling of kaela is its own form of art, in a way. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Merida is frustrated by her own inability to seem intelligent, especially in describing her own technological achievement. The two sit in silence.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>So the prosperity of Kai is important to you. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Merida is more and more put off by his questions. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Yes...</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>That’s why you’re still on Major. Kai functions best with you in the mud, doing the work you don’t have to do anymore. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I suppose so. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Are you married? Do you care about love?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I’m here now with you, aren’t I? </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I didn’t come here to see where things would go between you and I, and for that I’m sorry, Merida. I came here for something much greater. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>And what is it that’s greater than that?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>The chance to be recognized by your nation. Per request of the prince</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Merida perks up. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Kai Minor would like to cordially invite you to a gala commemorating the 10th anniversary of our ascent into the skies. Given you were an integral part of the designing of kaela into our system, it’s only fitting that you shall be a guest of honor at the event. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I...I don’t know what to say. I’m flattered. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>And we would be flattered to have you. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>But I need time to think about it. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I urge you accept, this chance may not be offered again. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I understand. I just want some time to decide. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>And I suppose you would not be the successful engineer you are today were it not for your instinct to wait and think. </Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 5/8" Page="7" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="CRESSIDA"></CharacterArcBeat>
-          <CharacterArcBeat Name="MERIDA"></CharacterArcBeat>
-          <CharacterArcBeat Name="PHINEAS"></CharacterArcBeat>
-          <CharacterArcBeat Name="ROYAL GUARD"></CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text>Int. Merida’s home</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Merida sits down at her desk and begins to write. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida (in writing)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Dear </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Cressida</Text>
-      <Text>, it gives me great joy to have received an invitation to </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kai’s</Text>
-      <Text> 10th anniversary gala on Minor. I would be delighted to see you there, as I’m sure you have been invited as well, however I don’t think I would be able to leave Major for any extended period of time. Reversals of polarity have occurred at an increasing rate, and I fear I’m needed most at my station. I hope to reunite again some other time. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The bustling of Major is heard. Merida pours herself a hot drink, when the whoosh of the pneumatics is heard.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Merida (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">lastname</Text>
-      <Text>), do not even dare consider passing up on this opportunity to reconnect and, more importantly, commemorate the good work of our nation. I’m sure the polarity does give cause for concern, but have you not faced some sort of imminent threat every week in the Choke for the past 10 years? It’s what comes with the job when the job is suspending two islands above the ground. Trust your subordinates to handle it, them being better at their job is what makes </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kai</Text>
-      <Text> better. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>More bustle. Merida writes back. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Are you sure it’ll be okay? </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Minor has the people’s best interests in mind. It’s the cultural hub of our world and it’s giving you permission to do whatever you could possibly want in it for a weekend. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I don’t even know what I’ll want to do there. I’ll barely know anybody.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>What you can do is help me get to know a certain someone better who will be at the gala. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Is this a man you have taken an interest in?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>He is and he will be there supporting his nation just as you should. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text></Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I suppose you’re right, and I do want to help out. It’s just hard to accept the call to duty when I can’t help but feel my work at home is the more important duty.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>When </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kai</Text>
-      <Text> asked us to build, we built a city that could fly.  When </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kai</Text>
-      <Text> asks us to party, we strap on our dancing shoes, go to the finest ballrooms in the world and we party. </Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="9" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="MERIDA"></CharacterArcBeat>
-          <CharacterArcBeat Name="PHINEAS"></CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text>Ext. Port of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">kai</Text>
-      <Text> major</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The bells and whooshing of trains.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Damned thing is never on time..</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Merida enters and drops her bags. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Sorry I’m late. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Not a problem, your city’s transportation is still wholly lacking, so our train won’t be here for another few minutes. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MerIDA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>But it’s the same system of trains that runs through Minor.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I wouldn’t still be waiting if we were in Minor. Some people like having the second home in Major, say it’s nice to escape the palace and experience more simple life. Not me. If I have a seat at the table, you best know I’m eating everything you have. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text></Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 6/8" Page="10" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="CRESSIDA"></CharacterArcBeat>
-          <CharacterArcBeat Name="MERIDA"></CharacterArcBeat>
-          <CharacterArcBeat Name="PHINEAS"></CharacterArcBeat>
-          <CharacterArcBeat Name="ROYAL GUARD"></CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text>7 int. Port of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Kai</Text>
-      <Text> minor - day</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The train enters the palace and halts. Merida looks in awe as the two exit and wander the halls of the palace. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>The Port of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kai</Text>
-      <Text> Minor is one of the most efficient in the world. In addition to accepting persons from across the sky, this large </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">recepticol</Text>
-      <Text> here--</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Is where </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">kaela</Text>
-      <Text> gets collected and then funneled to the island’s reservoir.  </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Yes, very well. Well did you know that trains going to Minor actually run faster than the ones leaving because--</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Because the trains coming into Minor move with the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">kaela</Text>
-      <Text> entering the city. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Okay, well do you know who we’re expecting to meet us in this very lobby? </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>What? </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Merida!</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Oh my god, </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Cressid</Text>
-      <Text>!</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Yeah, don’t know everything, do ya?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phineas</Text>
-      <Text> begged me to meet you here. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Thank you, </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phineas</Text>
-      <Text>. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>It was nothing. Well I best get going, I have some official matters to attend to. My people will be with you shortly to see you to your room. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phineas</Text>
-      <Text> exits. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Our room? But what about your apartment?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I couldn’t pass on the opportunity to spend a few nights in a royal suite. Even if I’m stuck rooming with you. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Me?! You should be honored to spend the night with me.  </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Then that would be an honor I share with not many people. Besides, someone has to keep your hands off of that dastardly prince. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Merida smiles.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida (bashfully)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Oh, you think he’ll be here?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Of course, Merida, it’s his gala. I know you two were all over each other the last you saw him, but he’s not your type. There will be plenty of more attractive options at the gala. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>That was ten years ago, </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Cressid</Text>
-      <Text>, you don’t have to worry about me. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I know, I know. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Besides, I came here to celebrate our achievement, hopefully catch up on some sleep, and get back to work. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cressida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>As any good guest should do. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Hey, what is this? </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Merida points to a marked off door. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I don’t recall designing this entrance. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Royal guard</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>That area does not pertain to you. Restricted access only. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Oh, hello officer. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Cressida</Text>
-      <Text> </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">shaks</Text>
-      <Text> her head in disapproval. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Royal guard</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Guests of this gala will have access to some of the finest recreational rooms in the world. Given security will be so spread thin, we can’t have all rooms accounted for. I hope you understand. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Merida</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Yes, of course. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Royal guard</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Now let me show you two to your room. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>They exit.</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 2/8" Page="12" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="PHINEAS"></CharacterArcBeat>
-          <CharacterArcBeat Name="PRINCE"></CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text>8 INt. Prince’s royal office</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The Prince and </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phineas</Text>
-      <Text> sit drinking tea in a lavishly decorated room. </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phineas</Text>
-      <Text> holds a cat in his lap. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>The rate of kaela being funneled into Minor has increased by 2.5%, per your request. We will be at 42 kilostars by the final night of the gala. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Excellent. Then the gala shall be a success. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The prince stands and looks out the window at Major.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I just wish it didn’t have to happen this soon. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>You said it yourself, this will benefit both rich and poor. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>And what I care most about is the happiness of my people. It is my duty to serve them. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>But...</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The prince looks away from the window then dramatically looks back. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Are the skies not vast enough for us all? I thought we were exploring the limits of our limitlessness, not reeling ourselves back in after ten years. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Sir, I know you care a lot about your people, but this project is the for the good of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kai</Text>
-      <Text>. Your people will understand. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>And what do you care for those people?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Me, sir? I care about the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">sustainability</Text>
-      <Text> of our nation. We have to do whatever we can to keep this enterprise afloat. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I’ve always appreciated your hard sense, </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phineas</Text>
-      <Text>. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>And I your strong sense of empathy. We work well together. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Are preparations in order otherwise? The food has been arranged, our guests are all accounted for--</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Ah, yes, the food for this weekend is ready, Prince. Has been for quite some now. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The prince waits in nervous silence. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>The guests, too, of course! I spent this morning actually escorting a guest, of mid-level importance, probably, to Minor. Goes by the name of Merida. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Merida?! She came? What did you tell her? Did you tell her I invited her?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I told her what I told all invited guests. We are celebrating the 10th anniversary of an event you were critical in bringing to fruition, and would like you there. She has no idea how uncontrollably into her you are. But she will if you continue to act this way. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>You’re right, you’re right, I’m sorry. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Phineas</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>It’s okay! We just need you to play it cool. You’re the prince. This is your territory. She is your </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">subject.</Text>
-      <Text> I’ll be there every step of the way. </Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Prince</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phineas</Text>
-      <Text>, my most trustworthy advisor, thank you for all that you do. I envision both plans playing out how we want them this weekend. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text></Text>
-    </Paragraph>
-  </Content>
-
-  <Watermarking Opacity="70" Position="Diagonal Descending">
-    <DynamicContent>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-    </DynamicContent>
-    <Distribution/>
-    <WatermarkImage Height="144"></WatermarkImage>
-  </Watermarking>
-
-  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
-    <Header>
-      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">  </Text>
-        <DynamicLabel Type="Page #"/>
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
-      </Paragraph>
-    </Header>
-    <Footer>
-      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
-      </Paragraph>
-    </Footer>
-  </HeaderAndFooter>
-
-  <SpellCheckIgnoreLists>
-    <IgnoredRanges/>
-    <IgnoredWords/>
-  </SpellCheckIgnoreLists>
-
-  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
-    <PageSize Height="11.00" Width="8.50"/>
-    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
-  </PageLayout>
-
-  <WindowState Height="984" Left="2" Mode="Maximized" Top="46" Width="634"/>
-
-  <TextState Scaling="100" Selection="11391,11391" ShowInvisibles="No"/>
-
-  <ElementSettings Type="General">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
-  </ElementSettings>
-
-  <ElementSettings Type="Scene Heading">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
-    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
-  </ElementSettings>
-
-  <ElementSettings Type="Action">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
-    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
-  </ElementSettings>
-
-  <ElementSettings Type="Character">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
-    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
-  </ElementSettings>
-
-  <ElementSettings Type="Parenthetical">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
-  </ElementSettings>
-
-  <ElementSettings Type="Dialogue">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
-  </ElementSettings>
-
-  <ElementSettings Type="Transition">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
-    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
-  </ElementSettings>
-
-  <ElementSettings Type="Shot">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
-    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
-  </ElementSettings>
-
-  <ElementSettings Type="Cast List">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
-    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
-  </ElementSettings>
-
-  <TitlePage>
-    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="No" StartingPage="1">
-      <Header>
-        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-        </Paragraph>
-      </Header>
-      <Footer>
-        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-        </Paragraph>
-      </Footer>
-    </HeaderAndFooter>
+<?xml version="1.0" encoding="UTF-8"?>
+<FinalDraft Template="No" Version="2" DocumentType="Script">
     <Content>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">_MERIDA AND THE FLOATING CITY OF KAI_</Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
+        <Paragraph Type="Scene Heading">
+            <Text>EXT. BEYOND KAI</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Main theme plays over the thrum of Kaela that will live on through the story. The wind blows under, the world feels lifted. The music cuts out.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Kai. The City in the Sky. The Bridge of the World. The Chained Islands. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Warm notes, small swell.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> There are only two masses of land known that have escaped the pull of the Earth, islands held together by a cord of pipes, links, and metal detritus. Major is the big one below. Minor is the rich one above. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The first breath of Major, quiet, with a rattle.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> And all this, from Kaela.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The thrum of Kaela rises. Pumps and machinery.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> The blood of Kai, a substance that becomes lighter than air, lighter than lightness itself.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Major exhales.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> A substance that, when pumped with force and regularity, can divide the Earth from itself. And below the surface of Major, the rock and grit and steel, stretch...</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Major inhales. Louder rattle.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>  ... and retract...</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Exhale. This doesn’t sound sustainable.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> ... with all the force and regularity one could ever desire. Pushing Kaela through Kai, holding the city above the Great Divide, a desert of crags, and grit and dust. A desert called endless by those on either side of it. </Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Kai, the Bridge of the World, ten years rusted, the first and only Connection. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Inhale. Exhale. Rattle.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Kai seems to be feeling that rust.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Burst. Hiss.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Very much so. But, from the inside, all appeared as it ever was.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Wind picks up as we dive into...</Text>
+        </Paragraph>
+        <Paragraph Type="Scene Heading">
+            <Text>INT. THE CHOKE</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Feet on metal walkways, we are inside of Major, inside of the breathing. Metal clicks and pumping are evident.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> This is the Choke. The point where all Kaela passes as it flows from Minor to Major and back again. This is where the pressure is the greatest, where flight is controlled, where everything always seems to be going wrong.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Crack-hiss.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Torin, open tank four-seven to collect overflow. Jestin patch that pipe and Sorcha route ps8 into the main flow. Please and thank you.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> But four-seven is already at half...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA (AT THE SAME TIME)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> </Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> But we’ll need to compensate for the loss...</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>JESTIN shuts them up</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>JESTIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Oh, I’m sure Merida didn’t consider that, do what you’re told you incompetents. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>We are moving already, following MERIDA to another part of the choke, more pistons and clanking. MERIDA is murmuring things to herself.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Pressures are all over, fair I guess, but we’re short, short and short. A self-disequilibrium? A fair-lane? No, no, need to adjust seventy-two.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida starts to turn a heavy rusted dial.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> This is Merida [MERIDA’s LAST NAME]. It’s her mind, along with Cressida Fairbanks’ that did most of the imagining that made Kai Kai. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>A new, worrying of sound of warming up Kaela.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> The Choke is trying to jump again? That’s (mental math) almost 30 seconds early.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Running and building noise.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Here comes. Reversing polarity in three, two...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> No, wait, on my mark.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> We’re fine here Merida.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> You’re ten seconds too early... two, one... mark.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Reversing polarity noise.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Done. I hope those seconds kept Minor from falling out of the sky.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Protocol Bryl. If we’re five seconds early every time...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> ‘...then who knows what could happen in thirty years.’ Like you won’t have a genius fix for it by then.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Flattering doesn’t become you. This system is in place for a reason and I won’t have you mucking about with it because of some sort of tiny rebelliousness. Monitor the flow.</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>MERIDA walks away.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>BRYL (FROM A DISTANCE)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>In a shocking turn of events, the flow is... regular!</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA </Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Prick.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>NARRATOR</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Of the team of thirty-two that originally worked on the project, after its completion, only half elected to actually board the craft they had created, Cressida and Merida being two of these. And of the sixteen all but one chose to live in Minor, the isle of royalty, galas, and “administrative work.”</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>A conversation through a door.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Yeah, she’s going on a date with some important Mino. A distributor or librarian I think.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>That’s wild that he would come down here.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I know. I forget how big of deal she is sometimes.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> They certainly don’t. I feel like half the mail coming down here through the pneum is for her.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Is for her? I feel like I see plenty of mail coming from your room going up to Minor. How are things going with that, oh, so stunning linguist you met once? What was her name, Gail?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> You know full well it was Gail, and you know full well how many of those letters have been coming back.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> That well then. </Text>
+        </Paragraph>
+        <Paragraph Type="Scene Heading">
+            <Text>3 INT. CAFE - DAY</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida drinks coffee across from a well-dressed man.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>It’s really as enjoyable of a job as I could hope for. Major is cozy, I’m friends with all my co-workers, and we keep an entire world afloat. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>But you could’ve lived on Minor if you wanted. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I did, for a while, when we were building it. But given the choice, I knew my calling was here. What is it you do? </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>My company invests in kaela and devotes that money to future projects. I also do some advising. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>So what are your hobbies?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>My hobbies?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Did you see they’re putting up “Sparks Will Fly” in Minor? It’s to be one of the great plays of this decade. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>The plays I attend are of the less popular, more critically acclaimed fashion, with a box office not nearly large enough to tour Major. Are you interested in the arts?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I think the cycling of kaela is its own form of art, in a way. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida is frustrated by her own inability to seem intelligent, especially in describing her own technological achievement. The two sit in silence.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>So the prosperity of Kai is important to you. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida is more and more put off by his questions. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Yes...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>That’s why you’re still on Major. Kai functions best with you in the mud, doing the work you don’t have to do anymore. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I suppose so. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Are you married? Do you care about love?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I’m here now with you, aren’t I? </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I didn’t come here to see where things would go between you and I, and for that I’m sorry, Merida. I came here for something much greater. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>And what is it that’s greater than that?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>The chance to be recognized by your nation. Per request of the prince</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida perks up. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Kai Minor would like to cordially invite you to a gala commemorating the 10th anniversary of our ascent into the skies. Given you were an integral part of the designing of kaela into our system, it’s only fitting that you shall be a guest of honor at the event. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I...I don’t know what to say. I’m flattered. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>And we would be flattered to have you. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>But I need time to think about it. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I urge you accept, this chance may not be offered again. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I understand. I just want some time to decide. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>And I suppose you would not be the successful engineer you are today were it not for your instinct to wait and think. </Text>
+        </Paragraph>
+        <Paragraph Type="Scene Heading">
+            <Text>INT. MERIDA’S HOME</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida sits down at her desk and begins to write. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA (IN WRITING)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Dear Cressida, it gives me great joy to have received an invitation to Kai’s 10th anniversary gala on Minor. I would be delighted to see you there, as I’m sure you have been invited as well, however I don’t think I would be able to leave Major for any extended period of time. Reversals of polarity have occurred at an increasing rate, and I fear I’m needed most at my station. I hope to reunite again some other time. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The bustling of Major is heard. Merida pours herself a hot drink, when the whoosh of the pneumatics is heard.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Merida (lastname), do not even dare consider passing up on this opportunity to reconnect and, more importantly, commemorate the good work of our nation. I’m sure the polarity does give cause for concern, but have you not faced some sort of imminent threat every week in the Choke for the past 10 years? It’s what comes with the job when the job is suspending two islands above the ground. Trust your subordinates to handle it, them being better at their job is what makes Kai better. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>More bustle. Merida writes back. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Are you sure it’ll be okay? </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Minor has the people’s best interests in mind. It’s the cultural hub of our world and it’s giving you permission to do whatever you could possibly want in it for a weekend. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I don’t even know what I’ll want to do there. I’ll barely know anybody.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>What you can do is help me get to know a certain someone better who will be at the gala. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Is this a man you have taken an interest in?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>He is and he will be there supporting his nation just as you should. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> I suppose you’re right, and I do want to help out. It’s just hard to accept the call to duty when I can’t help but feel my work at home is the more important duty.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>When Kai asked us to build, we built a city that could fly.  When Kai asks us to party, we strap on our dancing shoes, go to the finest ballrooms in the world and we party. </Text>
+        </Paragraph>
+        <Paragraph Type="Scene Heading">
+            <Text>EXT. PORT OF KAI MAJOR</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The bells and whooshing of trains.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Damned thing is never on time..</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida enters and drops her bags. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Sorry I’m late. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Not a problem, your city’s transportation is still wholly lacking, so our train won’t be here for another few minutes. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>But it’s the same system of trains that runs through Minor.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I wouldn’t still be waiting if we were in Minor. Some people like having the second home in Major, say it’s nice to escape the palace and experience more simple life. Not me. If I have a seat at the table, you best know I’m eating everything you have. </Text>
+        </Paragraph>
+        <Paragraph Type="Scene Heading">
+            <Text>7 INT. PORT OF KAI MINOR - DAY</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The train enters the palace and halts. Merida looks in awe as the two exit and wander the halls of the palace. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>The Port of Kai Minor is one of the most efficient in the world. In addition to accepting persons from across the sky, this large recepticol here--</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Is where kaela gets collected and then funneled to the island’s reservoir.  </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Yes, very well. Well did you know that trains going to Minor actually run faster than the ones leaving because--</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Because the trains coming into Minor move with the kaela entering the city. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Okay, well do you know who we’re expecting to meet us in this very lobby? </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>What? </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Merida!</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Oh my god, Cressid!</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Yeah, don’t know everything, do ya?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Phineas begged me to meet you here. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Thank you, Phineas. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>It was nothing. Well I best get going, I have some official matters to attend to. My people will be with you shortly to see you to your room. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Phineas exits. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Our room? But what about your apartment?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I couldn’t pass on the opportunity to spend a few nights in a royal suite. Even if I’m stuck rooming with you. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Me?! You should be honored to spend the night with me.  </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Then that would be an honor I share with not many people. Besides, someone has to keep your hands off of that dastardly prince. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida smiles.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA (BASHFULLY)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Oh, you think he’ll be here?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Of course, Merida, it’s his gala. I know you two were all over each other the last you saw him, but he’s not your type. There will be plenty of more attractive options at the gala. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>That was ten years ago, Cressid, you don’t have to worry about me. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I know, I know. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Besides, I came here to celebrate our achievement, hopefully catch up on some sleep, and get back to work. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>CRESSIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>As any good guest should do. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Hey, what is this? </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Merida points to a marked off door. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I don’t recall designing this entrance. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>ROYAL GUARD</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>That area does not pertain to you. Restricted access only. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Oh, hello officer. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Cressida shaks her head in disapproval. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>ROYAL GUARD</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Guests of this gala will have access to some of the finest recreational rooms in the world. Given security will be so spread thin, we can’t have all rooms accounted for. I hope you understand. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Yes, of course. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>ROYAL GUARD</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Now let me show you two to your room. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>They exit.</Text>
+        </Paragraph>
+        <Paragraph Type="Scene Heading">
+            <Text>8 INT. PRINCE’S ROYAL OFFICE</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The Prince and Phineas sit drinking tea in a lavishly decorated room. Phineas holds a cat in his lap. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>The rate of kaela being funneled into Minor has increased by 2.5%, per your request. We will be at 42 kilostars by the final night of the gala. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Excellent. Then the gala shall be a success. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The prince stands and looks out the window at Major.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I just wish it didn’t have to happen this soon. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>You said it yourself, this will benefit both rich and poor. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>And what I care most about is the happiness of my people. It is my duty to serve them. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>But...</Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The prince looks away from the window then dramatically looks back. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Are the skies not vast enough for us all? I thought we were exploring the limits of our limitlessness, not reeling ourselves back in after ten years. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Sir, I know you care a lot about your people, but this project is the for the good of Kai. Your people will understand. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>And what do you care for those people?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Me, sir? I care about the sustainability of our nation. We have to do whatever we can to keep this enterprise afloat. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I’ve always appreciated your hard sense, Phineas. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>And I your strong sense of empathy. We work well together. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Are preparations in order otherwise? The food has been arranged, our guests are all accounted for--</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Ah, yes, the food for this weekend is ready, Prince. Has been for quite some now. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>The prince waits in nervous silence. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>The guests, too, of course! I spent this morning actually escorting a guest, of mid-level importance, probably, to Minor. Goes by the name of Merida. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Merida?! She came? What did you tell her? Did you tell her I invited her?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>I told her what I told all invited guests. We are celebrating the 10th anniversary of an event you were critical in bringing to fruition, and would like you there. She has no idea how uncontrollably into her you are. But she will if you continue to act this way. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>You’re right, you’re right, I’m sorry. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PHINEAS</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>It’s okay! We just need you to play it cool. You’re the prince. This is your territory. She is your </Text>
+            <Text Style="Underline">subject.</Text>
+            <Text> I’ll be there every step of the way. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>PRINCE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text>Phineas, my most trustworthy advisor, thank you for all that you do. I envision both plans playing out how we want them this weekend.</Text>
+        </Paragraph>
     </Content>
-    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
-  </TitlePage>
-
-  <UnanchoredScriptNotes/>
-
-  <SmartType>
-    <Characters/>
-    <Extensions>
-      <Extension>(V.O.)</Extension>
-      <Extension>(O.S.)</Extension>
-      <Extension>(O.C.)</Extension>
-      <Extension>(CONT'D)</Extension>
-      <Extension>(SUBTITLE)</Extension>
-    </Extensions>
-    <SceneIntros Separator=". ">
-      <SceneIntro>Int</SceneIntro>
-      <SceneIntro>Ext</SceneIntro>
-      <SceneIntro>I/E</SceneIntro>
-    </SceneIntros>
-    <Locations/>
-    <TimesOfDay Separator=" - ">
-      <TimeOfDay>Day</TimeOfDay>
-      <TimeOfDay>Night</TimeOfDay>
-      <TimeOfDay>Afternoon</TimeOfDay>
-      <TimeOfDay>Morning</TimeOfDay>
-      <TimeOfDay>Evening</TimeOfDay>
-      <TimeOfDay>Later</TimeOfDay>
-      <TimeOfDay>Moments Later</TimeOfDay>
-      <TimeOfDay>Continuous</TimeOfDay>
-      <TimeOfDay>The Next Day</TimeOfDay>
-    </TimesOfDay>
-    <Transitions>
-      <Transition>Cut To:</Transition>
-      <Transition>Fade In:</Transition>
-      <Transition>Fade Out.</Transition>
-      <Transition>Fade To:</Transition>
-      <Transition>Dissolve To:</Transition>
-      <Transition>Back To:</Transition>
-      <Transition>Match Cut To:</Transition>
-      <Transition>Jump Cut To:</Transition>
-      <Transition>Fade To Black.</Transition>
-    </Transitions>
-  </SmartType>
-
-  <MoresAndContinueds>
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
-    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
-    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
-  </MoresAndContinueds>
-
-  <LockedPages/>
-
-  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
-    <Revision Color="#FFFF00000000" FullRevision="No" ID="1" Mark="*" Name="First Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
-    <Revision Color="#00000000FFFF" FullRevision="No" ID="2" Mark="*" Name="Second Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
-    <Revision Color="#0000FFFF0000" FullRevision="No" ID="3" Mark="*" Name="Third Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
-    <Revision Color="#FFFFFFFF0000" FullRevision="No" ID="4" Mark="*" Name="Fourth Revision" PageColor="#FFFFFFFFFFFF" Style=""/>
-  </Revisions>
-
-  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="1912">
-    <ScriptPanel DisplayMode="Page">
-      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
-    </ScriptPanel>
-  </SplitState>
-
-  <Macros>
-    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-    <Macro Element="None" Name="" Shortcut="Ctrl+Shift+Alt+0" Text="" Transition="None">
-      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
-        <ActivateIn Element="General"/>
-        <ActivateIn Element="Scene Heading"/>
-        <ActivateIn Element="Action"/>
-        <ActivateIn Element="Character"/>
-        <ActivateIn Element="Parenthetical"/>
-        <ActivateIn Element="Dialogue"/>
-        <ActivateIn Element="Transition"/>
-        <ActivateIn Element="Shot"/>
-        <ActivateIn Element="Cast List"/>
-      </Alias>
-    </Macro>
-  </Macros>
-
-  <Actors>
-    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice="H"/>
-    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice="H"/>
-    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice="H"/>
-    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Fast" WinVoice="H"/>
-    <Actor MacVoice="" Name="Boy 1" Pitch="Very High" Speed="Medium" WinVoice="H"/>
-    <Actor MacVoice="" Name="Boy 2" Pitch="High" Speed="Slow" WinVoice="H"/>
-    <Actor MacVoice="" Name="Girl 1" Pitch="Very High" Speed="Medium" WinVoice="H"/>
-    <Actor MacVoice="" Name="Girl 2" Pitch="Very High" Speed="Slow" WinVoice="H"/>
-    <Actor MacVoice="" Name="Old Man" Pitch="Low" Speed="Slow" WinVoice="H"/>
-    <Actor MacVoice="" Name="Old Woman" Pitch="Low" Speed="Slow" WinVoice="H"/>
-  </Actors>
-
-  <Cast>
-    <Narrator Actor=""/>
-  </Cast>
-
-  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
-    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
-  </SceneNumberOptions>
-
-  <CastList SortOption="Alphabetical">
-    <CustomOrder/>
-  </CastList>
-
-  <CharacterHighlighting>
-    <Character Color="#FFFFFFFFFFFF" Name="BRYL" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="CRESSIDA" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="JESTIN" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="MERIDA" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="NARRATOR" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="PHINEAS" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="PRINCE" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="ROYAL GUARD" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="SORCHA" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="TORIN" Visible="No"/>
-  </CharacterHighlighting>
-
-  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn=""/>
-
-  <AltCollection/>
-
-  <TargetScriptLength>120</TargetScriptLength>
-
-  <ListItems/>
-
-  <DisplayBoards>
-    <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
-    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
-  </DisplayBoards>
-
+    <TitlePage>
+        <Content>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text>_MERIDA AND THE FLOATING CITY OF KAI_</Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Left">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Right">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+            <Paragraph Alignment="Center">
+                <Text></Text>
+            </Paragraph>
+        </Content>
+    </TitlePage>
+    <HeaderAndFooter HeaderFirstPage="No" StartingPage="1" FooterVisible="No" HeaderVisible="Yes" FooterFirstPage="Yes">
+        <Header>
+            <Paragraph>
+                <Text> </Text>
+                <Text> </Text>
+                <DynamicLabel Type="Page #"></DynamicLabel>
+                <Text>.</Text>
+                <TabStops>
+                    <TabStop Position="4.50" Type="Center"></TabStop>
+                    <TabStop Position="7.25" Type="Right"></TabStop>
+                </TabStops>
+            </Paragraph>
+        </Header>
+        <DynamicLabel Type="Last Revised"></DynamicLabel>
+        <Footer>
+            <Paragraph>
+                <Text> </Text>
+            </Paragraph>
+        </Footer>
+    </HeaderAndFooter>
+    <WindowState Height="1028" Mode="Normal" Top="46" Left="2" Width="634"></WindowState>
 </FinalDraft>
