@@ -119,7 +119,7 @@
             <Text> But four-seven is already at half...</Text>
         </Paragraph>
         <Paragraph Type="Character">
-            <Text>SORCHA (at the same time)</Text>
+            <Text>SORCHA (AT THE SAME TIME)</Text>
         </Paragraph>
         <Paragraph Type="Dialogue">
             <Text> </Text>
@@ -221,7 +221,7 @@
             <Text>MERIDA walks away.</Text>
         </Paragraph>
         <Paragraph Type="Character">
-            <Text>BRYL (from a distance)</Text>
+            <Text>BRYL (FROM A DISTANCE)</Text>
         </Paragraph>
         <Paragraph Type="Dialogue">
             <Text>In a shocking turn of events, the flow is... regular!</Text>
@@ -236,7 +236,7 @@
             <Text>NARRATOR</Text>
         </Paragraph>
         <Paragraph Type="Dialogue">
-            <Text> Of the team of thirty-two that originally worked on the project, after its completion, only half elected to actually board the craft they had created, Cressida and Merida being two of these. And of the sixteen all but one chose to live in Minor, the isle of royalty, galas, and “administrative work.”</Text>
+            <Text> Of the team of thirty-two that originally worked on the project, after its completion, only half elected to actually board the craft they had created, Cressida and Merida being two of these. And of that sixteen all but one chose to live in Minor, the isle of royalty, galas, and “administrative work.”</Text>
         </Paragraph>
         <Paragraph Type="Action">
             <Text>A conversation through a door.</Text>
@@ -282,6 +282,120 @@
         </Paragraph>
         <Paragraph Type="Dialogue">
             <Text> That well then. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>MERIDA knocks.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Less gabbing and more working.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Oh, uh, right Merida. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>A breath.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> You, didn’t hear... well, how much did you hear. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> None of it. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Another breath. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> You patched ps 8?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Yep</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Reintegrated the overflow?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Of course, and tightened portal eleven to maintain pressure.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> It’s not as if we don’t know what to do with a burst. They weren’t ever what you would call rare, and  now...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> I can handle it. </Text>
+        </Paragraph>
+        <Paragraph Type="Action">
+            <Text>Breath.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA (CONT’D)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Sorry, we can handle it. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> No, you meant the first one. </Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> I...</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> We get it Merida. It’s hard being you when you’re surrounded by such fools as us.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>MERIDA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> I think I’m going to go home for the day.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>TORIN</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Oh, yeah sure, we can handle, uh take care of it while you’re gone.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+            <Text>SORCHA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+            <Text> Have fun with your Mino boy.</Text>
         </Paragraph>
         <Paragraph Type="Scene Heading">
             <Text>EXT. PORT OF KAI MINOR - DAY</Text>
